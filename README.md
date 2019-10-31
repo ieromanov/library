@@ -3,6 +3,7 @@
 ## Состояние в реакте
 ### Сохранение redux стора
 - https://github.com/rt2zz/redux-persist
+- https://github.com/redux-offline/redux-offline
 
 ## Тултипы
 
