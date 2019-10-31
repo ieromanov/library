@@ -1,5 +1,9 @@
 # library
 
+## Текстовый редактор
+
+- https://github.com/Alex-D/Trumbowyg
+
 ## Файловая система
 
 - https://github.com/zeit/serve
