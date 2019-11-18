@@ -15,6 +15,10 @@
 - [redux-persist](https://github.com/rt2zz/redux-persist)
 - [redux-offline](https://github.com/redux-offline/redux-offline)
 
+### Оптимизации
+- [react-window](https://github.com/bvaughn/react-window) - оптимизация отрисовки больших списков и табличных данных
+- [react-reselect](https://github.com/reduxjs/reselect) - мемоизация данных из redux store
+
 ## Тултипы
 - [poper.js](https://github.com/FezVrasta/popper.js)
 
