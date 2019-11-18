@@ -1,30 +1,29 @@
 # library
 
 ## Текстовый редактор
-
-- https://github.com/Alex-D/Trumbowyg
+- [Trumbowyg](https://github.com/Alex-D/Trumbowyg)
 
 ## Файловая система
+- [serve](https://github.com/zeit/serve)
 
-- https://github.com/zeit/serve
+## Vue
+### Валидаторы
+- [vuelidate](https://github.com/vuelidate/vuelidate)
 
-## Состояние в реакте
+## React
 ### Сохранение redux стора
-- https://github.com/rt2zz/redux-persist
-- https://github.com/redux-offline/redux-offline
+- [redux-persist](https://github.com/rt2zz/redux-persist)
+- [redux-offline](https://github.com/redux-offline/redux-offline)
 
 ## Тултипы
-
-- https://github.com/FezVrasta/popper.js
+- [poper.js](https://github.com/FezVrasta/popper.js)
 
 ## Диаграммы
-
-- https://github.com/mermaid-js/mermaid
+- [mermaid](https://github.com/mermaid-js/mermaid)
 
 ## Отображение кода
-
-- https://github.com/carbon-app/carbon
+- [carbon](https://github.com/carbon-app/carbon)
 
 ## Утилиты для тестов
-
-- https://github.com/avajs/ava
+- [ava](https://github.com/avajs/ava)
+- [majestic](https://github.com/Raathigesh/majestic)
