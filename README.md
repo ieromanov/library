@@ -1,5 +1,8 @@
 # library
 
+## Дизайн система
+- [Whitepaper tools](https://whitepaper.tools/index.html) - интересная штука для дизайн системы
+
 ## Текстовый редактор
 - [Trumbowyg](https://github.com/Alex-D/Trumbowyg)
 
