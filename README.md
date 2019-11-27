@@ -9,11 +9,11 @@
 ## Файловая система
 - [serve](https://github.com/zeit/serve)
 
-## Vue
+## :green_heart: Vue
 ### Валидаторы
 - [vuelidate](https://github.com/vuelidate/vuelidate)
 
-## React
+## :blue_heart: React
 ### Сохранение redux стора
 - [redux-persist](https://github.com/rt2zz/redux-persist)
 - [redux-offline](https://github.com/redux-offline/redux-offline)
@@ -21,6 +21,11 @@
 ### Оптимизации
 - [react-window](https://github.com/bvaughn/react-window) - оптимизация отрисовки больших списков и табличных данных
 - [react-reselect](https://github.com/reduxjs/reselect) - мемоизация данных из redux store
+
+## :purple_heart: :iphone: React Native
+
+### Работа с устройством
+- Android: [react-native-send-intent](https://github.com/lucasferreira/react-native-send-intent) - отправка текста в приложения, для телефонные звонки или открытия сторонних приложений
 
 ## Тултипы
 - [poper.js](https://github.com/FezVrasta/popper.js)
