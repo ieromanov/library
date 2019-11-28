@@ -12,6 +12,7 @@
 ## :green_heart: Vue
 ### Валидаторы
 - [vuelidate](https://github.com/vuelidate/vuelidate)
+- [vee-validate](https://github.com/logaretm/vee-validate)
 
 ## :blue_heart: React
 ### Сохранение redux стора
