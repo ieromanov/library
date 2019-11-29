@@ -40,3 +40,7 @@
 ## Утилиты для тестов
 - [ava](https://github.com/avajs/ava)
 - [majestic](https://github.com/Raathigesh/majestic)
+
+## Состояние в js
+
+- [jstates](https://github.com/orYoffe/jstates) - контроль состояния в js
