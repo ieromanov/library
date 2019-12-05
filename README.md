@@ -7,9 +7,12 @@
 
 ## :yellow_heart: JS
 
+- [geolib](https://github.com/manuelbieh/geolib) - библиотека для работы с геолокацией
+
 - [poper.js](https://github.com/FezVrasta/popper.js) - тултип
 
 - [mermaid](https://github.com/mermaid-js/mermaid) - Создание диаграмм и блок-схем из синтаксиса аналогично markdown
+- [toast ui chart](https://github.com/nhn/tui.chart) - графики с тултипами
 
 - [carbon](https://github.com/carbon-app/carbon) - Создание красивых изображений исходного кода
 
@@ -19,6 +22,7 @@
 - [jstates](https://github.com/orYoffe/jstates) - контроль состояния в js
 
 - [Trumbowyg](https://github.com/Alex-D/Trumbowyg) - текстовый редактор
+- [Mark Text](https://github.com/marktext/marktext) - текстовый редактор(markdown, но прикольный)
 
 - [serve](https://github.com/zeit/serve) - отображение статичной файловой системы
 
@@ -27,14 +31,20 @@
 ## :green_heart: Node.JS
 
 - [sharp](https://github.com/lovell/sharp) - Оптимизация картинок
+- [node-qrcode](https://github.com/soldair/node-qrcode) - генератор qr-кодов
 
 ---
 
 ## :green_heart: Vue
 
+- [vue-interactive-paycard](https://github.com/muhammederdem/vue-interactive-paycard) - форма для банковской карты
+
 ### Валидаторы
 - [vuelidate](https://github.com/vuelidate/vuelidate)
 - [vee-validate](https://github.com/logaretm/vee-validate)
+
+### Тесты
+- [Vue Testing Library](https://github.com/testing-library/vue-testing-library)
 
 ---
 
@@ -47,6 +57,9 @@
 ### Оптимизации
 - [react-window](https://github.com/bvaughn/react-window) - оптимизация отрисовки больших списков и табличных данных
 - [react-reselect](https://github.com/reduxjs/reselect) - мемоизация данных из redux store
+
+### Тесты
+- [React Testing Library](https://github.com/testing-library/react-testing-library)
 
 ---
 
