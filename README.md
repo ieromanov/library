@@ -9,7 +9,7 @@
 ## Файловая система
 - [serve](https://github.com/zeit/serve)
 
-## ![Node.JS](https://nodejs.org/en/static/images/logo.svg) Node.JS
+## ![Node.JS](https://nodejs.org/static/images/logo.svg) Node.JS
 - [sharp](https://github.com/lovell/sharp) - Оптимизация картинок
 
 
