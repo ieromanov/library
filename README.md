@@ -9,7 +9,7 @@
 ## Файловая система
 - [serve](https://github.com/zeit/serve)
 
-## ![Node.JS](https://nodejs.org/static/images/logo.svg) Node.JS
+## :green_heart: Node.JS
 - [sharp](https://github.com/lovell/sharp) - Оптимизация картинок
 
 
@@ -27,7 +27,7 @@
 - [react-window](https://github.com/bvaughn/react-window) - оптимизация отрисовки больших списков и табличных данных
 - [react-reselect](https://github.com/reduxjs/reselect) - мемоизация данных из redux store
 
-## :purple_heart: :iphone: React Native
+## :blue_heart: React Native
 
 ### Работа с устройством
 - Android: [react-native-send-intent](https://github.com/lucasferreira/react-native-send-intent) - отправка текста в приложения, для телефонные звонки или открытия сторонних приложений
