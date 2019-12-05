@@ -4,7 +4,7 @@
 - [Whitepaper tools](https://whitepaper.tools/index.html) - интересная штука для дизайн системы
 
 ## Текстовый редактор
-- [Trumbowyg](https://github.com/Alex-D/Trumbowyg)
+- [Trumbowyg](https://github.com/Alex-D/Trumbowyg) - текстовый редактор
 
 ## Файловая система
 - [serve](https://github.com/zeit/serve) - отображение статичной файловой системы
