@@ -7,7 +7,7 @@
 - [Trumbowyg](https://github.com/Alex-D/Trumbowyg)
 
 ## Файловая система
-- [serve](https://github.com/zeit/serve)
+- [serve](https://github.com/zeit/serve) - отображение статичной файловой системы
 
 ## :green_heart: Node.JS
 - [sharp](https://github.com/lovell/sharp) - Оптимизация картинок
