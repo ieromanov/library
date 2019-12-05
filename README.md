@@ -3,8 +3,6 @@
 ## Дизайн система
 - [Whitepaper tools](https://whitepaper.tools/index.html) - интересная штука для дизайн системы
 
----
-
 ## :yellow_heart: JS
 
 - [geolib](https://github.com/manuelbieh/geolib) - библиотека для работы с геолокацией
@@ -26,14 +24,10 @@
 
 - [serve](https://github.com/zeit/serve) - отображение статичной файловой системы
 
----
-
 ## :green_heart: Node.JS
 
 - [sharp](https://github.com/lovell/sharp) - Оптимизация картинок
 - [node-qrcode](https://github.com/soldair/node-qrcode) - генератор qr-кодов
-
----
 
 ## :green_heart: Vue
 
@@ -45,8 +39,6 @@
 
 ### Тесты
 - [Vue Testing Library](https://github.com/testing-library/vue-testing-library)
-
----
 
 ## :blue_heart: React
 
@@ -60,8 +52,6 @@
 
 ### Тесты
 - [React Testing Library](https://github.com/testing-library/react-testing-library)
-
----
 
 ## :blue_heart: React Native
 
