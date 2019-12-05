@@ -9,6 +9,10 @@
 ## Файловая система
 - [serve](https://github.com/zeit/serve)
 
+## ![Node.JS](https://nodejs.org/en/static/images/logo.svg) Node.JS
+- [sharp](https://github.com/lovell/sharp) - Оптимизация картинок
+
+
 ## :green_heart: Vue
 ### Валидаторы
 - [vuelidate](https://github.com/vuelidate/vuelidate)
