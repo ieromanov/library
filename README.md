@@ -24,6 +24,8 @@
 
 - [serve](https://github.com/zeit/serve) - отображение статичной файловой системы
 
+- [vivus](https://github.com/maxwellito/vivus) - для SVG анимаций
+
 ## :green_heart: Node.JS
 
 - [sharp](https://github.com/lovell/sharp) - Оптимизация картинок
