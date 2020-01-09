@@ -29,6 +29,7 @@
 ## :green_heart: Node.JS
 
 - [sharp](https://github.com/lovell/sharp) - Оптимизация картинок
+- [compressorjs](https://github.com/fengyuanchen/compressorjs) - компрессор картинок
 - [node-qrcode](https://github.com/soldair/node-qrcode) - генератор qr-кодов
 
 ### Frameworks
