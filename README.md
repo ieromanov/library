@@ -39,6 +39,9 @@
 - [vuelidate](https://github.com/vuelidate/vuelidate)
 - [vee-validate](https://github.com/logaretm/vee-validate)
 
+### Модалки
+- [vue-js-modal](https://github.com/euvl/vue-js-modal) - модальные окна
+
 ### Тесты
 - [Vue Testing Library](https://github.com/testing-library/vue-testing-library)
 
