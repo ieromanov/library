@@ -26,6 +26,10 @@
 
 - [vivus](https://github.com/maxwellito/vivus) - для SVG анимаций
 
+#### babel
+
+- [babel-plugin-lodash](https://github.com/lodash/babel-plugin-lodash) - cherry-pick Lodash modules
+
 ## :green_heart: Node.JS
 
 - [sharp](https://github.com/lovell/sharp) - Оптимизация картинок
