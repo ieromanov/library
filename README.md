@@ -26,7 +26,7 @@
 
 - [vivus](https://github.com/maxwellito/vivus) - для SVG анимаций
 
-#### babel
+### babel
 
 - [babel-plugin-lodash](https://github.com/lodash/babel-plugin-lodash) - cherry-pick Lodash modules
 
