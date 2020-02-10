@@ -39,6 +39,8 @@
 - [node-qrcode](https://github.com/soldair/node-qrcode) - генератор qr-кодов
 - [casbin](https://github.com/casbin/node-casbin) - Библиотека для авторизации с поддеркой моделей контроля доступа таких как: ACL, RBAC, ABAC
 
+- [nestjs-graphql-best-practice](https://github.com/chnirt/nestjs-graphql-best-practice)
+
 ### Frameworks
 - [risen-js](https://github.com/daviemakz/risen-js) - фреймворк для микросервисов
 
