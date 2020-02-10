@@ -43,6 +43,7 @@
 ## :green_heart: Vue
 
 - [vue-interactive-paycard](https://github.com/muhammederdem/vue-interactive-paycard) - форма для банковской карты
+- [vue-ctk-date-time-picker](https://github.com/chronotruck/vue-ctk-date-time-picker) - datepicker и timepicker
 
 ### Валидаторы
 - [vuelidate](https://github.com/vuelidate/vuelidate)
