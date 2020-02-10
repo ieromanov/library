@@ -5,6 +5,8 @@
 
 ## :yellow_heart: JS
 
+- [swiper](https://github.com/nolimits4web/swiper) - карусель с поддержкой мобилок
+
 - [geolib](https://github.com/manuelbieh/geolib) - библиотека для работы с геолокацией
 
 - [poper.js](https://github.com/FezVrasta/popper.js) - тултип
