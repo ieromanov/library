@@ -35,6 +35,7 @@
 - [sharp](https://github.com/lovell/sharp) - Оптимизация картинок
 - [compressorjs](https://github.com/fengyuanchen/compressorjs) - компрессор картинок
 - [node-qrcode](https://github.com/soldair/node-qrcode) - генератор qr-кодов
+- [casbin](https://github.com/casbin/node-casbin) - Библиотека для авторизации с поддеркой моделей контроля доступа таких как: ACL, RBAC, ABAC
 
 ### Frameworks
 - [risen-js](https://github.com/daviemakz/risen-js) - фреймворк для микросервисов
