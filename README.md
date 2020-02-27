@@ -61,6 +61,8 @@
 
 ## :blue_heart: React
 
+- [react-split-pane](https://github.com/tomkp/react-split-pane) - компонент блоков с регулируемой высотой и шириной
+
 ### Сохранение redux стора
 - [redux-persist](https://github.com/rt2zz/redux-persist)
 - [redux-offline](https://github.com/redux-offline/redux-offline)
