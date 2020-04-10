@@ -5,7 +5,7 @@
 
 ## Webpack
 
-- [webpack-libs-optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations)
+- [webpack-libs-optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations) - оптимизации популярных библиотек под webpack
 
 ## :yellow_heart: JS
 
