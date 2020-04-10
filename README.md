@@ -3,6 +3,10 @@
 ## Дизайн система
 - [Whitepaper tools](https://whitepaper.tools/index.html) - интересная штука для дизайн системы
 
+## Webpack
+
+- [webpack-libs-optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations)
+
 ## :yellow_heart: JS
 
 - [swiper](https://github.com/nolimits4web/swiper) - карусель с поддержкой мобилок
