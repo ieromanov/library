@@ -9,6 +9,8 @@
 
 ## :yellow_heart: JS
 
+- [email builder](https://grapesjs.com/) - билдер почтовых рассылок
+
 - [swiper](https://github.com/nolimits4web/swiper) - карусель с поддержкой мобилок
 
 - [geolib](https://github.com/manuelbieh/geolib) - библиотека для работы с геолокацией
